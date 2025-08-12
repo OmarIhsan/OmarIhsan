@@ -1,6 +1,6 @@
 Hi, I'm Omar Ihsan! 👋
 
-A passionate full-stack developer with over 5 years of experience in Flutter, Python, Node.js, and Java. [cite_start]I have a proven track record of delivering high-quality software solutions that solve real-world problems. My unique background as a dental student gives me a distinctive perspective, allowing me to build digital solutions that are not only visually appealing but also strategically effective.  
+A passionate full-stack developer with over 5 years of experience in Flutter, Python, Node.js, and Java. I have a proven track record of delivering high-quality software solutions that solve real-world problems. My unique background as a dental student gives me a distinctive perspective, allowing me to build digital solutions that are not only visually appealing but also strategically effective.  
 
 💻 My Skills & Expertise
 
@@ -46,6 +46,5 @@ Improved backend performance by 25% by optimizing Node.js APIs.
 
 Phone (WhatsApp Available): 00964 7765142214  
 
-[cite_start]
 
 Website: https://omar-ihsan.vercel.app/   
