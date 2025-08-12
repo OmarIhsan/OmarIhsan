@@ -1,50 +1,34 @@
-Hi, I'm Omar Ihsan! 👋
+Omar Ihsan 👋
+Full-Stack Developer | Dental Student | Problem-Solver
 
-A passionate full-stack developer with over 5 years of experience in Flutter, Python, Node.js, and Java. I have a proven track record of delivering high-quality software solutions that solve real-world problems. My unique background as a dental student gives me a distinctive perspective, allowing me to build digital solutions that are not only visually appealing but also strategically effective.  
+With over 5 years of experience in Flutter, Python, Node.js, and Java, I specialize in creating high-performance, user-focused software solutions that make a real impact.
+My unique background as a dental student equips me with a strategic, patient-centered approach to building digital products—bridging technology and real-world needs.
 
-💻 My Skills & Expertise
+💻 Core Skills
+Languages: Python, Java, JavaScript, Dart
+Frameworks & Libraries: Flutter, Node.js, Express.js, Spring Boot, Django
+Databases: Firebase
+Tools: Git, VS Code, Android Studio
 
+🚀 Highlighted Projects
+DentalTech – High-performance React, Next.js, and Tailwind CSS website designed to help UK dental clinics attract new private patients.
 
-    Programming Languages: Python, Java, JavaScript, Dart.   
+Restaurant Delivery System – Flutter-based mobile app for seamless order management and real-time tracking.
 
+Flutter E-Commerce App – Cross-platform shopping app with product search, cart management, and integrated payment gateways.
 
-Frameworks & Libraries: Flutter, Node.js, Express.js, Spring Boot, Django.  
+Taskeen – Productivity and task management platform built with Python.
 
+✨ Key Achievements
+30% faster development by building reusable Flutter components.
 
-Databases: I have experience with Firebase.  
+25% backend performance boost through optimized Node.js APIs.
 
+📞 Let’s Connect
+LinkedIn: linkedin.com/in/omarihsan
 
-Tools: Git, VS Code, Android Studio.  
+Email: omaraldulaimybusiness@gmail.com
 
-🚀 Featured Projects
+WhatsApp/Phone: +964 776 514 2214
 
-
-    DentalTech: A high-performance website built with React, Next.js, and Tailwind CSS to attract new private patients for UK dental clinics.   
-
-
-Restaurant Delivery System: A Flutter-based mobile application with comprehensive order management and tracking.  
-
-
-Flutter E-Commerce App: A cross-platform e-commerce app with features like product search, cart management, and payment integration.  
-
-
-Taskeen: A comprehensive task management and organization tool built with Python.  
-
-✨ Achievements
-
-    Reduced development time by 30% through reusable Flutter components.   
-
-Improved backend performance by 25% by optimizing Node.js APIs.  
-
-📞 Let's Connect!
-
-    LinkedIn: https://www.linkedin.com/in/omarihsan/
-
-
-    Email: omaraldulaimybusiness@gmail.com   
-
-
-Phone (WhatsApp Available): 00964 7765142214  
-
-
-Website: https://omar-ihsan.vercel.app/   
+Portfolio: omar-ihsan.vercel.app
